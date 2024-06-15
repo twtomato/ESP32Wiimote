@@ -107,6 +107,10 @@ void loop()
 1. The LED1 will be on when they have finished connecting  
 <img width="30%" src="./remocon_led1_on.png" />  
 
+## Demo Video
+
+[https://www.youtube.com/watch?v=MUI_3hybZ4g](https://www.youtube.com/watch?v=MUI_3hybZ4g)
+
 ## Licence
 
    see [LICENSE.md](./LICENSE.md) 
